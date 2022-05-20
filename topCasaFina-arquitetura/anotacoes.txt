@@ -1,0 +1,38 @@
+>>> BOOTSTRAP
+É importante importar o Bootstrap no head do html 
+________________________________________________________________________________________________________
+
+Para usar o .collapse
+é preciso identificar o elemento adicionando 
+data-toggle="collapse"
+e identificar a tag com
+data-target=" "
+id = #
+class = .
+
+________________________________________________________________________________________________________
+
+>>> JQUERY
+https://jquery.com
+
+é preciso fazer o download da última versão 
+salvar na pasta 
+e incluir o script do jquery
+
+________________________________________________________________________________________________________
+
+figcaption  é uma tag para legendar imagens
+figure é uma tag para imagens
+
+div / section 
+o div serve para dividir 
+o section para criar seções
+para questões semânticas é melhor usar o section do que o div serve
+
+
+________________________________________________________________________________________________________
+ctrl + shift + p   = reindentar linhas do código (organizar)
+
+________________________________________________________________________________________________________
+
+
